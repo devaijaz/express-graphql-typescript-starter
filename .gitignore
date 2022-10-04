@@ -1,0 +1,8 @@
+node_modules/
+dist/
+src/envs/.env.development
+src/envs/.env.testing
+src/envs/.env.staging
+
+
+
